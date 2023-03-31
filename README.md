@@ -12,6 +12,8 @@ Your challenge is to build out this multi-step form and get it looking as close 
 
 You can use any tools you like to help you complete the challenge.
 
+You can fork this or just create your own repository(which should be public) for your solution
+
 Your users should be able to:
 
 - Complete each step of the sequence
